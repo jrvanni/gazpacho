@@ -1,7 +1,11 @@
 # gazpacho
 Recipe for gazpacho
 
-Tomatoes
-Peppers
-Cucumbers 
-Onion
+## Ingredient List
+* Tomatoes
+* Peppers
+* Cucumbers 
+* Onion
+
+## Directions
+chop it and mix it 
