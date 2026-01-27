@@ -9,3 +9,6 @@ Recipe for gazpacho
 
 ## Directions
 chop it and mix it 
+
+## More Directions
+eat and enjoy!
